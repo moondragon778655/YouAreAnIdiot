@@ -10,7 +10,7 @@ function reopen() {
 }
 function reopen() {
   window.open(
-    "dafjkhaskl",
+    "dafjkhaskl.html",
     "",
     "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
   );
