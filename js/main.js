@@ -8,6 +8,13 @@ function reopen() {
     "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
   );
 }
+function reopen() {
+  window.open(
+    "dafjkhaskl",
+    "",
+    "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
+  );
+}
 function spam() {
   for (var i = 0; i < 10; i++) {
     reopen();
