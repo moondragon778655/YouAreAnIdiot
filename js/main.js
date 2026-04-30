@@ -3,14 +3,14 @@ if (top.location != location) {
 }
 function reopen() {
   window.open(
-    "dafjkgaskldfj.html",
+    "dafjkhaskl.html",
     "",
     "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
   );
 }
 function reopen() {
   window.open(
-    "popup.html",
+    "dafjkhaskl.html",
     "",
     "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
   );
