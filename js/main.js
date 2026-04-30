@@ -19,7 +19,7 @@ function spam() {
   for (var i = 0; i < 10; i++) {
     reopen();
   }
-  return "You are an idiot!";
+  return "you are an idiot";
 }
 function init() {
   document.body.onclick = reopen;
